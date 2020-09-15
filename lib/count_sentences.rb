@@ -29,6 +29,6 @@ class String
 
   def count_sentences
     split(/\.|\?|!/).length  
-    bninding.pry
+  bninding.pry
   end
 end
