@@ -32,3 +32,4 @@ class String
     binding.pry
     array.length
   end
+end
